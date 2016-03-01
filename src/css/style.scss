@@ -1,0 +1,34 @@
+select.form-control {
+    -webkit-appearance: menulist;
+    -moz-apperance: menulist;
+    appearance: menulist
+}
+
+.form-group {
+    .ui-input_state_invalid {
+        border-bottom-color: #a94442 !important;
+        border-bottom-width: 1px !important;
+        border-bottom-style: dotted;
+        border-color: #a94442 !important;
+        border-width: 1px !important;
+        border-style: dotted;
+    }
+
+    .ui-hint {
+        color: #a94442;
+    }
+
+}
+
+.modal {
+    background-color: white;
+    width: 75%;
+    left: 12%;
+    top: 50px;
+    bottom: auto;
+    height: auto;
+}
+
+
+img.profile {
+}

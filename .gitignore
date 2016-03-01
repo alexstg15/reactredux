@@ -1,0 +1,8 @@
+/node_modules
+.idea
+/"wmc template"
+/cliptwo
+/cliptwo.zip
+/wmc template
+.DS_Store
+npm-debug.log
